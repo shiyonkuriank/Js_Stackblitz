@@ -1,0 +1,19 @@
+body {
+  background-color: burlywood;
+}
+
+#inc-btn {
+  background-color: brown;
+  border-radius: 5px;
+  justify-content: center;
+  margin-bottom: 10px;
+  height: 25px;
+}
+
+#save-btn {
+  background-color: brown;
+  border-radius: 5px;
+  justify-content: center;
+  margin-bottom: 10px;
+  height: 25px;
+}
