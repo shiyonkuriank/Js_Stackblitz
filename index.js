@@ -1,6 +1,5 @@
 // Import stylesheets
 import './index.css';
-import { sum } from './Test/test.js';
 
 // Write Javascript code
 (function (w) {
@@ -31,7 +30,6 @@ import { sum } from './Test/test.js';
   }
 
   myLogger();
-  sum();
 
   w.increment = increment;
   w.save = save;
